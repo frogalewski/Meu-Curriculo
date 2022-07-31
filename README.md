@@ -6,13 +6,13 @@
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreKmetiuk&theme=react&show_icons=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreKmetiuk&theme=react&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=frogalewsky&theme=react&show_icons=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frogalewsky&theme=react&show_icons=true" />
 </p>
 </details>
 
 #
 
 <p align="center">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlexandreKmetiuk&theme=react&date_format=j%2Fn%5B%2FY%5D&fire=DD2727&dates=DDBFBD&currStreakLabel=DDD03F&sideLabels=DDD5CC"/>  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=frogalewsky&theme=react&date_format=j%2Fn%5B%2FY%5D&fire=DD2727&dates=DDBFBD&currStreakLabel=DDD03F&sideLabels=DDD5CC"/>  
 </p>
